@@ -1,0 +1,26 @@
+@baseUrl = http://localhost:8080
+@bearerToken = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1ha3BhdGlsQGdtYWlsLmNvbSIsImV4cCI6MTc3MTE3NDU4NywidWlkIjoxfQ.6tfPv4ln-Br_qTtBfgnzF3YbM28L_gtparkXFc66kHw
+
+POST {{baseUrl}}/events
+Authorization: {{bearerToken}}
+Content-Type: application/json
+
+{
+	"name": "Sample Event - 2",
+	"description": "This is a sample event",
+	"date": "2023-10-10T10:00:00.000Z",
+	"location": "Sample Location"
+}
+
+###
+
+PUT {{baseUrl}}/events/2
+Authorization: {{bearerToken}}
+Content-Type: application/json
+
+{
+	"name": "Sample Event updated - 3",
+	"description": "This is a sample updated event",
+	"date": "2023-10-10T10:00:00.000Z",
+	"location": "Sample updated Location"
+}

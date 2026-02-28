@@ -1,0 +1,6 @@
+@baseUrl = http://localhost:8080
+@bearerToken = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1ha3BhdGlsQGdtYWlsLmNvbSIsImV4cCI6MTc3MTE3NDU4NywidWlkIjoxfQ.6tfPv4ln-Br_qTtBfgnzF3YbM28L_gtparkXFc66kHw
+
+
+DELETE {{baseUrl}}/events/3
+Authorization: {{bearerToken}}

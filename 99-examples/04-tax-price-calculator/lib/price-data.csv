@@ -1,0 +1,22 @@
+date,sku,item_name,category,unit_price,currency,quantity,tax_rate,tax_amount,total_price,vendor
+2026-01-01,SKU-1001,Ultrabook Pro 14,Laptops,1299.99,USD,1,0.08,104.00,1403.99,Acme Electronics
+2026-01-02,SKU-2002,Smartphone X,Phones,899.50,USD,1,0.08,71.96,971.46,MobileCo
+2026-01-03,SKU-3003,Hardcover Novel,Books,24.99,USD,2,0.00,0.00,49.98,BookWorld
+2026-01-04,SKU-4004,Espresso Beans,Coffee,15.75,USD,3,0.07,3.31,50.56,RoastHouse
+2026-01-05,SKU-5005,Ergo Chair,Furniture,199.00,USD,1,0.08,15.92,214.92,FurniCo
+2026-01-06,SKU-5006,Standing Desk,Furniture,399.00,USD,1,0.08,31.92,430.92,FurniCo
+2026-01-07,SKU-6007,NoiseCancel Headphones,Audio,149.95,USD,1,0.08,12.00,161.95,SoundLab
+2026-01-08,SKU-7008,27in Monitor,Displays,249.99,USD,2,0.08,40.00,539.98,DisplayMart
+2026-01-09,SKU-8009,Antivirus License,Software,59.99,USD,1,0.00,0.00,59.99,SecureSoft
+2026-01-10,SKU-8010,Cloud Backup Subscription,Services,9.99,USD,12,0.00,0.00,119.88,CloudNet
+2026-01-11,SKU-9011,Inkjet Printer,Printers,89.49,USD,1,0.08,7.16,96.65,PrintPlus
+2026-01-12,SKU-10012,Mirrorless Camera,Cameras,749.00,USD,1,0.08,59.92,808.92,CamStore
+2026-01-13,SKU-11013,WiFi Router,Networking,59.99,USD,1,0.08,4.80,64.79,NetGear
+2026-01-14,SKU-12014,1TB SSD,Storage,119.99,USD,2,0.08,19.20,259.18,StorageHub
+2026-01-15,SKU-13015,Wireless Mouse,Accessories,29.95,USD,2,0.08,4.79,64.69,PeriphPro
+2026-01-16,SKU-13016,Mechanical Keyboard,Accessories,89.95,USD,1,0.08,7.20,97.15,PeriphPro
+2026-01-17,SKU-14017,55in Smart TV,TVs,649.00,USD,1,0.08,51.92,700.92,HomeVision
+2026-01-18,SKU-15018,Mini Fridge,Appliances,129.99,USD,1,0.08,10.40,140.39,KitchenKing
+2026-01-19,SKU-15019,Kitchen Blender,Appliances,39.50,USD,1,0.08,3.16,42.66,HomeAppliances
+2026-01-20,SKU-16020,Hybrid Bicycle,Sports,399.00,USD,1,0.08,31.92,430.92,CycleWorks
+2026-01-21,SKU-17021,Children Toy,Toys,19.99,USD,3,0.00,0.00,59.97,ToyFactory

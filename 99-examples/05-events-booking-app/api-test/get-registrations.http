@@ -1,0 +1,4 @@
+### Get all registrations
+GET http://localhost:8080/registrations
+Content-Type: application/json
+

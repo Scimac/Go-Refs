@@ -1,0 +1,7 @@
+@baseUrl = http://localhost:8080
+
+GET {{baseUrl}}/events
+
+###
+
+GET {{baseUrl}}/events/2

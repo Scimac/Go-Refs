@@ -1,0 +1,16 @@
+country,region,postal_code,jurisdiction,type,rate,effective_from,effective_to,notes
+US,CA,90001,California,state_sales,0.0725,2018-01-01,,State base sales tax
+US,CA,94103,San Francisco,city_sales,0.0850,2020-07-01,,Combined local rate
+US,NY,10001,New York,state_sales,0.0400,2019-01-01,,State base rate
+US,NY,10314,Staten Island,city_sales,0.08875,2019-01-01,,Combined local rate
+US,TX,73301,Texas,state_sales,0.0625,2018-01-01,,State base rate
+US,TX,73301,Austin,city_sales,0.0825,2018-01-01,2020-12-31,Temporary surtax expired 2020
+US,IL,60601,Chicago,city_sales,0.1025,2021-01-01,,Includes local taxes
+GB,ENG,SW1A,United Kingdom,vat_standard,0.2000,1991-04-01,,Value Added Tax
+DE,BE,10115,Germany,vat_standard,0.1900,2007-01-01,,Value Added Tax
+CA,ON,M5H,Toronto,province_sales,0.1300,2010-07-01,,Harmonized Sales Tax (HST)
+CA,QC,H2X,Montreal,province_sales,0.14975,2013-06-01,,GST + QST combined
+AU,NSW,2000,Sydney,national_sales,0.1000,2000-07-01,,Goods and Services Tax (GST)
+IN,DL,110001,Delhi,goods_service_tax,0.1800,2017-07-01,,GST central+state
+JP,13,100-0001,Tokyo,consumption_tax,0.1000,2019-10-01,,Consumption tax
+US,FL,33101,Miami,city_sales,0.0700,2015-01-01,,Local rate

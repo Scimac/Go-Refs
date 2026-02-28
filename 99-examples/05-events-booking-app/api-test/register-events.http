@@ -1,0 +1,12 @@
+@baseUrl = http://localhost:8080
+@bearerToken = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1ha3BhdGlsMkBnbWFpbC5jb20iLCJleHAiOjE3NzExNzQ4MTEsInVpZCI6M30.L9C60Km7cQvVB3Ftii5PSkE_FnNBEQdprvw4PFWzsFM
+
+POST {{baseUrl}}/events/2/register
+Authorization: {{bearerToken}}
+Content-Type: application/json
+
+###
+
+DELETE {{baseUrl}}/events/2/register
+Authorization: {{bearerToken}}
+Content-Type: application/json
